@@ -1,0 +1,3 @@
+# The followig code was programmed to calculate the linear correlation between data obtained from an optical tweezers configuration.
+# The mentioned linear correlation was to obtained the natural fluid velocity from an brownian particle.
+# The main hypothesis was that the b in the linear formula (y=mx+b) was representative of the disturbance of the fluid, main cause of the difficulty using the tweezers to catch latex particles.
