@@ -1,1 +1,4 @@
-
+# Code made in order to plot the data collected from a glow discharge experimental setup.
+# Said data points were plot and passed to a GIF format in order to make it more appealing for the data display.
+# After the data plot through the GIF format, the aim of the algorithm was to calculate the area of the hysteresis noted in the mentioned discharge.
+# The area was calculated using the shoelace theorem.
